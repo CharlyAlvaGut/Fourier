@@ -15,4 +15,4 @@ Aplicación en Python con interfaz gráfica para visualizar y analizar la Serie 
 
 ## Ejecución
 ```bash
-python main.py
+python p1.py
