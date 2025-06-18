@@ -1,0 +1,13 @@
+Librerías utilizadas:
+
+    numpy – para cálculos numéricos y generación de puntos
+
+    matplotlib – para graficar funciones y resultados
+
+    scipy – para integración numérica (quad) y lectura de archivos .wav
+
+    reportlab – para generar archivos PDF con los coeficientes de Fourier
+
+    tkinter – para la creación de la interfaz gráfica
+
+    PIL (de Pillow) – para manejar imágenes en la interfaz, si se incluye visualización futura
